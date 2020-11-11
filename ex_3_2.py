@@ -14,4 +14,3 @@ elif scr >=0.6:
     print("D")
 else:
     print("E")
-input("Press enter to exit")
